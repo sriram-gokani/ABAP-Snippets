@@ -497,7 +497,7 @@ Found a bug or want to add your own snippet? Feel free to raise a Pull Request!
 
 **Sriram Gokani**
 SAP ABAP Consultant | 3+ years at Accenture
-sriramgokarni.sap@gmail.com
+sriramgokarni2000.sap@gmail.com
 
 ---
 
