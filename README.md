@@ -1,2 +1,0 @@
-# ABAP-Snippets
-ABAP snippets
